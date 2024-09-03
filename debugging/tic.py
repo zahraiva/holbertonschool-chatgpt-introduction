@@ -17,7 +17,7 @@ def check_winner(board):
     board (list of list of str): The 3x3 game board where each cell is ' ', 'X', or 'O'.
     
     Returns:
-    bool: True if there is a winner, False otherwise.
+    bool: True if there is a winner, False 
     """
     # Check rows for a win
     for row in board:
